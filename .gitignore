@@ -188,3 +188,5 @@ $RECYCLE.BIN/
 *.png
 raw_csr/
 raw_png/
+png_gpg/
+raw_gpg/
